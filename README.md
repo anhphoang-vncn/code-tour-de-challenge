@@ -1,4 +1,4 @@
-# Code Tour De Challenge FRONT END
+# Coding Bug - Tour De Challenge | FRONT END
 
 ## Xây dựng dựa trên QDOJ của tác giả Harry-zklcdc 
 
